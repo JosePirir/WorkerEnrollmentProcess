@@ -1,0 +1,6 @@
+{
+  "CarreraId": "012533CD-EFEA-4A37-A2AF-C2C0AF35E9F1",
+  "Ciclo": "2022",
+  "MesInicioPago":2,
+  "NoExpediente": "EXP-2022002"
+}
