@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E0UJS7oHWh8rIrQUKV+fmXwTO1UxclOJbj92UYyutQIe68R/5GJTS4lHTSP08T0xnM+g+NwGJJP/17KCvps1MQ==",
+  "dgSpecHash": "2v6hy68vn0iy4hrjtUCp/spS7rqZsUqMckRWVS+3oV9BE/0+XwdzwPhuN12Jdrvgmz97zMcXpJKXm9iQLkvZjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\Documents\\Aprendiendo .net\\proyectos\\prod\\WorkerEnrollmentProcess\\WorkerEnrollmentProcess\\WorkerEnrollmentProcess.csproj",
+  "projectFilePath": "G:\\Proyectos\\WorkerEnrollmentProcess\\WorkerEnrollmentProcess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.2-mauipre.1.22054.8\\microsoft.extensions.configuration.6.0.2-mauipre.1.22054.8.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.2-mauipre.1.22054.8\\microsoft.extensions.configuration.abstractions.6.0.2-mauipre.1.22054.8.nupkg.sha512",

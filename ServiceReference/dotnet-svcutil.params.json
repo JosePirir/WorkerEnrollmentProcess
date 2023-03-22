@@ -1,6 +1,6 @@
 {
   "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "options": {
     "inputs": [
       "http://localhost:5253/EnrollmentService.asmx"
@@ -22,6 +22,7 @@
       "Microsoft.Extensions.Options, {Microsoft.Extensions.Options, 6.0.2-mauipre.1.22054.8}",
       "Microsoft.Extensions.Options.ConfigurationExtensions, {Microsoft.Extensions.Options.ConfigurationExtensions, 6.0.2-mauipre.1.22054.8}",
       "Microsoft.Extensions.Primitives, {Microsoft.Extensions.Primitives, 6.0.2-mauipre.1.22054.8}",
+      "RabbitMQ.Client, {RabbitMQ.Client, 6.2.2}",
       "Serilog, {Serilog, 2.10.0}",
       "Serilog.Sinks.File, {Serilog.Sinks.File, 5.0.0}",
       "System.Diagnostics.DiagnosticSource, {System.Diagnostics.DiagnosticSource, 6.0.2-mauipre.1.22054.8}",
@@ -33,6 +34,7 @@
       "System.Security.Principal.Windows, {System.Security.Principal.Windows, 4.7.0}",
       "System.Text.Encodings.Web, {System.Text.Encodings.Web, 6.0.0-preview.3.21201.4}",
       "System.Text.Json, {System.Text.Json, 6.0.0-preview.3.21201.4}",
+      "System.Threading.Channels, {System.Threading.Channels, 4.7.1}",
       "System.Windows.Extensions, {System.Windows.Extensions, 4.7.0}"
     ],
     "targetFramework": "net6.0",
